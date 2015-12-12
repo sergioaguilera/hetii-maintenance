@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    background-color: #03A9F4;
 }
 
 .bg-dark {
@@ -385,9 +385,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #f05f40;
+    border-color: #03A9F4;
     color: #fff;
-    background-color: #f05f40;
+    background-color: #03A9F4;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -399,9 +399,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #ed431f;
+    border-color: #0097A7;
     color: #fff;
-    background-color: #ee4b28;
+    background-color: #0097A7;
 }
 
 .btn-primary:active,
@@ -474,3 +474,5 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+*{color: black !important}
